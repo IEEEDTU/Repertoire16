@@ -7,5 +7,6 @@ Repertoire 2016 Website
 * Deepika
 * Harshita
 * Sagnik Bhowmik
+* Prithu
 
 
